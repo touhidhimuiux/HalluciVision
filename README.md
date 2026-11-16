@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="assets/hallucivision-banner.png" alt="HalluciVision Research Banner" width="100%">
+<img src="HalluciVision Ox-Cart Analysis Banner.png" alt="HalluciVision Research Banner" width="100%">
 
 # HalluciVision
 
